@@ -1,9 +1,12 @@
 name: myenv
 channels:
   - defaults
+  - conda-forge
+  - cyclus
 dependencies:
   - jupyterlab
   - ipykernel
-  - python=3.11.14
+  - python=3.11
+  - java-jdk=8.25.17
   - pip:
     - geopandas==0.14.1
