@@ -2,7 +2,7 @@ name: myenv
 channels:
   - defaults
 dependencies:
-  - python=3.11.4
+  - python=3.11
   - pip
   - pip:
     - geopandas==0.14.1
