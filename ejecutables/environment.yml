@@ -1,0 +1,8 @@
+name: myenv
+channels:
+  - defaults
+dependencies:
+  - python=3.11.4
+  - pip
+  - pip:
+    - geopandas==0.14.1
