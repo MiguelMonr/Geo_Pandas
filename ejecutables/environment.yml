@@ -2,7 +2,8 @@ name: myenv
 channels:
   - defaults
 dependencies:
-  - python=3.11
-  - pip
+  - jupyterlab
+  - ipykernel
+  - python=3.11.14
   - pip:
     - geopandas==0.14.1
