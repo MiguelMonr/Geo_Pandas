@@ -6,8 +6,8 @@ WORKDIR /app
 
 # Copy the environment.yml file into the container at /app
 COPY environment.yml /app/environment.yml
-COPY notebooks /app/notebooks
-COPY Geo_Pandas /app/Geo_Pandas  # Copy the ejecutables directory
+# Copy the ejecutables directory
+COPY JupyterNotebooks /app/JupyterNotebooks  
 
 # Create a Conda environment from the YAML file
 RUN conda env create -f environment.yml
