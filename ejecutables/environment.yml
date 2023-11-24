@@ -10,4 +10,3 @@ dependencies:
   - java-jdk=8.25.17
   - pip:
     - geopandas== 0.14.1
-    - geodataset
