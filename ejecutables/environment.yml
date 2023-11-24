@@ -9,4 +9,5 @@ dependencies:
   - python=3.11
   - java-jdk=8.25.17
   - pip:
-    - geopandas==0.14.1
+    - geopandas== 0.14.1
+    - geodataset== 2023.3.0
