@@ -17,7 +17,7 @@ RUN conda env create -f environment.yml
 SHELL ["conda", "run", "-n", "myenv", "/bin/bash", "-c"]
 
 # Install IPython kernel for the Conda environment
-RUN python -m ipykernel install --user --name myenv --display-name "myenv"
+RUN python -m ipykernel install --user --name myenv --display-name "env_GeoPandas"
 
 # Expose the Jupyter Lab port
 EXPOSE 8888
