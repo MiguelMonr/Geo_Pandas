@@ -1,6 +1,7 @@
 # Use an official miniconda runtime as a parent image
 FROM continuumio/miniconda3:latest
 
+
 # Set the working directory inside the container
 WORKDIR /app
 
