@@ -10,7 +10,7 @@ Comandos para hacer su imagen y cargar su contenedor satisfactoriamente:
     # Esto crea la imagen con el nombre imagen_geopandas
     docker build -t imagen_geopandas ./ejecutables
     # Esto crea el contenedor
-    docker run --name geo_pandas -p 8888:8888 imagen_geopandas
+    docker run --name geopandas -p 8888:8888 imagen_geopandas
     
 
 
