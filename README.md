@@ -11,6 +11,8 @@ Comandos para hacer su imagen y cargar su contenedor satisfactoriamente:
     docker build -t imagen_geopandas ./ejecutables
     # Esto crea el contenedor
     docker run --name geo_pandas -p 8888:8888 imagen_geopandas
-    
+
+5. No olviden cambiar el ipykernel por 'Env_GeoPandas' una vez que ya se les haya abierto la ventana en el puerto correcto
+
 
 
