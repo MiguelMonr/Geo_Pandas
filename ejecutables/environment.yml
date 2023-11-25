@@ -7,6 +7,10 @@ dependencies:
   - jupyterlab
   - ipykernel
   - python=3.11
-
+  - java-jdk=8.25.17
   - pip:
-      - geopandas== 0.14.1
+    - geopandas==0.14.1
+    - geodatasets==2023.3.0
+    - matplotlib==3.8.0
+    - esda
+    - mapclassify
