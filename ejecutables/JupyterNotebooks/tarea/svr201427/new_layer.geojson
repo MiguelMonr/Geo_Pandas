@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"features": [
+{ "type": "Feature", "properties": { "alcaldi": "ALVARO OBREGON" }, "geometry": { "type": "Point", "coordinates": [ -99.21412804281249, 19.354716113125001 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "AZCAPOTZALCO" }, "geometry": { "type": "Point", "coordinates": [ -99.181217844799988, 19.475734970400005 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "BENITO JUAREZ" }, "geometry": { "type": "Point", "coordinates": [ -99.161200813605447, 19.381529975170068 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "COYOACAN" }, "geometry": { "type": "Point", "coordinates": [ -99.143920438965523, 19.331445699655173 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "CUAJIMALPA DE MORELOS" }, "geometry": { "type": "Point", "coordinates": [ -99.282744922151906, 19.363892421518987 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "CUAUHTEMOC" }, "geometry": { "type": "Point", "coordinates": [ -99.157182465079359, 19.427590669841269 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "GUSTAVO A. MADERO" }, "geometry": { "type": "Point", "coordinates": [ -99.115174788222703, 19.491557526552462 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "IZTACALCO" }, "geometry": { "type": "Point", "coordinates": [ -99.090488657971022, 19.395250978260869 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "IZTAPALAPA" }, "geometry": { "type": "Point", "coordinates": [ -99.063939433439998, 19.349797673280001 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "LA MAGDALENA CONTRERAS" }, "geometry": { "type": "Point", "coordinates": [ -99.235267606097551, 19.31504790487805 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "MIGUEL HIDALGO" }, "geometry": { "type": "Point", "coordinates": [ -99.195396105936055, 19.432106522831052 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "MILPA ALTA" }, "geometry": { "type": "Point", "coordinates": [ -99.021712762962963, 19.202081018518516 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "TLAHUAC" }, "geometry": { "type": "Point", "coordinates": [ -99.02173293775509, 19.284662136734692 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "TLALPAN" }, "geometry": { "type": "Point", "coordinates": [ -99.169479148734183, 19.282669000632911 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "VENUSTIANO CARRANZA" }, "geometry": { "type": "Point", "coordinates": [ -99.098313018705028, 19.425644550359713 ] } },
+{ "type": "Feature", "properties": { "alcaldi": "XOCHIMILCO" }, "geometry": { "type": "Point", "coordinates": [ -99.096991986184207, 19.256921818421052 ] } }
+]
+}
