@@ -3662,3 +3662,4 @@
 { "type": "Feature", "properties": { "nombre": "MUNDO DE LOS PEQUES", "nivel": "Preescolar - Inicial *", "turno": "TIEMPO COMPLETO", "sstnmnt": "Particular", "domicil": "EDGAR ALLAN POE NUM 314", "ubicacn": "EDGAR ALLAN POE NUM 314, POLANCO REFORMA, MIGUEL HIDALGO", "colonia": "POLANCO REFORMA (POLANCO)", "alcaldi": "MIGUEL HIDALGO" }, "geometry": { "type": "Point", "coordinates": [ -99.1997352, 19.4365343 ] } }
 ]
 }
+
